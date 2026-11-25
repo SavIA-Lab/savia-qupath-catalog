@@ -1,0 +1,22 @@
+{
+  "name": "Catálogo SavIA",
+  "description": "Extensiones de SavIA para QuPath",
+  "extensions": [
+    {
+      "name": "SavIA — Exportación YOLO",
+      "description": "Exporta parches de imagen y etiquetas YOLO a partir de las anotaciones de QuPath.",
+      "author": "SavIA",
+      "homepage": "https://github.com/SavIA-Lab/qupath-extension-savia",
+      "releases": [
+        {
+          "name": "v0.2.0",
+          "main_url": "https://github.com/SavIA-Lab/qupath-extension-savia/releases/download/v0.2.0/qupath-extension-savia-0.2.0.jar",
+          "version_range": {
+            "min": "v0.7.0",
+            "max": "v0.7.0"
+          }
+        }
+      ]
+    }
+  ]
+}
